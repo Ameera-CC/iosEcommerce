@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
         },
         'product-image-2': {
-            pink: '/images/iPhone13/iphone13_pink.webp',
+            pink: './images/iPhone13/iphone13_pink.webp',
             red: './images/iPhone13/iphone13_red.webp',
             green: './images/iPhone13/iphone13_green.webp',
             white: './images/iPhone13/iphone13_white.webp',
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
         },
         'product-image-4': {
-            pink: '/images/iPhone13/iphone13_pink.webp',
+            pink: './images/iPhone13/iphone13_pink.webp',
             red: './images/iPhone13/iphone13_red.webp',
             green: './images/iPhone13/iphone13_green.webp',
             white: './images/iPhone13/iphone13_white.webp',
